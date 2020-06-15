@@ -5,6 +5,6 @@ add second line
 add third line
 
 changes for for:
-1
-2
-3
+1Привет
+2Еше раз привет
+3Третий раз привет
